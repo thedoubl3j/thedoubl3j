@@ -7,6 +7,7 @@ Current Projects that I am actively contributing to are:
 - [Ansible Navigator](https://github.com/ansible/ansible-navigator)
 - [Galaxy Importer](https://github.com/ansible/galaxy-importer)
 - [AWX](https://github.com/ansible/awx)
+- [awx-operator](https://github.com/ansible/awx-operator)
 - Various Collections
 
 Super interested in python and its relative web frameworks. 
