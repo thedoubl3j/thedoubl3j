@@ -12,7 +12,7 @@ Current Projects that I am actively contributing to are:
 
 Super interested in python and its relative web frameworks. 
 
-You can find me most everywhere as @thedoubl3j (twitter, IRC, linkedin etc)
+You can find me most everywhere as @thedoubl3j (twitter, IRC, linkedin, <a rel="me" href="https://mastodon.lol/@thedoubl3j">Mastodon</a> etc)
 
 <!--
 **thedoubl3j/thedoubl3j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
