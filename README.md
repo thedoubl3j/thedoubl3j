@@ -6,6 +6,7 @@
 Current Projects that I am actively contributing to are: 
 - [AWX](https://github.com/ansible/awx)
 - [awx-operator](https://github.com/ansible/awx-operator)
+- [django-ansible-base](https://github.com/ansible/django-ansible-base)
 - Various Ansible Collections
 
 Projects that I have previously contributed to but not currently contributing:
