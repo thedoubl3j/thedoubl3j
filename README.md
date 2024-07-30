@@ -15,7 +15,7 @@ Projects that I have previously contributed to but not currently contributing:
 
 Super interested in python and its relative web frameworks. 
 
-You can find me most everywhere as @thedoubl3j (twitter, IRC, linkedin, <a rel="me" href="https://fosstodon.org/@thedoubl3j">Mastodon</a> etc)
+You can find me most everywhere as @thedoubl3j (IRC, linkedin, <a rel="me" href="https://fosstodon.org/@thedoubl3j">Mastodon</a> etc)
 
 <!--
 **thedoubl3j/thedoubl3j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
